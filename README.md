@@ -1,5 +1,5 @@
 # Pritam Ray, MA23M018, DA6401_A1
-The WanDb report is here: https://wandb.ai/pritamapcr-indian-institute-of-technology-madras/A1_MA23M018/reports/MA23M018-Pritam-Ray-DA6401-Assignment-1--VmlldzoxMTcxMTE4NA/edit?draftId=VmlldzoxMTcxMTE4NA==
+The WANDB report is here: https://wandb.ai/pritamapcr-indian-institute-of-technology-madras/A1_MA23M018/reports/MA23M018-Pritam-Ray-DA6401-Assignment-1--VmlldzoxMTcxMTE4NA/edit?draftId=VmlldzoxMTcxMTE4NA==
 
 
 Description of assignment:
